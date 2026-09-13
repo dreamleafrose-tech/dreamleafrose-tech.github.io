@@ -39,7 +39,7 @@
 .xbox-old .trigger {
     width: 33px;
     height: 76px;
-    background: url(xbox-assets-old/trigger.svg);
+    background: url(/Final/trigger.svg);
     opacity: 0;
 }
 
@@ -56,7 +56,7 @@
 .xbox-old .bumper {
     width: 119px;
     height: 44px;
-    background: url(xbox-assets-old/bumper.svg);
+    background: url(Final/bumper.svg);
     opacity: 0;
 }
 
@@ -121,7 +121,7 @@
 }
 
 .xbox-old .back, .xbox-old .start {
-    background: url(xbox-assets-old/arrow.png);
+    background: url(Final/arrow.png);
     width: 34px;
     height: 29px;
 }
@@ -210,7 +210,7 @@
 
 .xbox-old .stick {
     position: absolute;
-    background: url(xbox-assets-old/stick.png);
+    background: url(Final/stick.png);
     height: 86px;
     width: 86px;
 }
