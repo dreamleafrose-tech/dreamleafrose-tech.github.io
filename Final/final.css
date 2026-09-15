@@ -7,10 +7,6 @@
         margin-top: -285px;*/
 }
 
-.xbox.white {
-    background: url(Final/base.svg);
-}
-
 .xbox.disconnected {
     background: url(Final/disconnected.svg);
 }
