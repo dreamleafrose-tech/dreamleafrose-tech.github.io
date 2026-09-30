@@ -1,14 +1,18 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://dreamleafrose-tech.github.io/Final/base.svg);
+    background: url(Final/base.svg);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
         margin-top: -285px;*/
 }
 
+.xbox.white {
+    background: url(Final/base.svg);
+}
+
 .xbox.disconnected {
-    background: url(https://dreamleafrose-tech.github.io/Final/disconnected.svg);
+    background: url(Final/disconnected.svg);
 }
 
 .xbox.disconnected div {
@@ -25,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://dreamleafrose-tech.github.io/Final/trigger.svg);
+    background: url(Final/trigger.svg);
     opacity: 0;
 }
 
@@ -42,7 +46,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://dreamleafrose-tech.github.io/Final/bumper.svg);
+    background: url(Final/bumper.svg);
     opacity: 0;
 }
 
@@ -70,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(https://dreamleafrose-tech.github.io/Final/quadrant.svg);
+    background: url(Final/quadrant.svg);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -107,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://dreamleafrose-tech.github.io/Final/start-select.svg);
+    background: url(Final/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -136,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://dreamleafrose-tech.github.io/Final/abxy.svg);
+    background: url(Final/abxy.svg);
     width: 48px;
     height: 48px;
 }
@@ -181,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(https://dreamleafrose-tech.github.io/Final/stick.svg);
+    background: url(Final/stick.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -210,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url(https://dreamleafrose-tech.github.io/Final/dpad.svg);
+    background: url(Final/dpad.svg);
     position: absolute;
     opacity: 0;
 }
