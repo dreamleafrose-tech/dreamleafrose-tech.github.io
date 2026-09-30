@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(Final/base.svg);
+    background: urlhttps://github.com/dreamleafrose-tech/dreamleafrose-tech.github.io/tree/main/Final/base.svg);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,7 +8,8 @@
 }
 
 .xbox.disconnected {
-    background: url(Final/disconnected.svg);
+    background: url(dreamleafrose-tech.github.io/Final
+/disconnected.svg);
 }
 
 .xbox.disconnected div {
@@ -25,7 +26,8 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(Final/trigger.svg);
+    background: url(dreamleafrose-tech.github.io/Final
+/trigger.svg);
     opacity: 0;
 }
 
@@ -42,7 +44,8 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(Final/bumper.svg);
+    background: url(dreamleafrose-tech.github.io/Final
+/bumper.svg);
     opacity: 0;
 }
 
@@ -70,7 +73,8 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(Final/quadrant.svg);
+    background: url(dreamleafrose-tech.github.io/Final
+/quadrant.svg);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -136,7 +140,8 @@
 
 .xbox .button {
     position: absolute;
-    background: url(Final/abxy.svg);
+    background: url(dreamleafrose-tech.github.io/Final
+/abxy.svg);
     width: 48px;
     height: 48px;
 }
@@ -181,7 +186,8 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(Final/stick.svg);
+    background: url(dreamleafrose-tech.github.io/Final
+/stick.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -210,7 +216,8 @@
 }
 
 .xbox .face {
-    background: url(Final/dpad.svg);
+    background: url(dreamleafrose-tech.github.io/Final
+/dpad.svg);
     position: absolute;
     opacity: 0;
 }
